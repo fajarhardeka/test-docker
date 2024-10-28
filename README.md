@@ -1,1 +1,1 @@
-Beberapa file testing docker untuk praktikum Sistem Terdistribusi.
+Beberapa projek testing docker untuk praktikum Sistem Terdistribusi.
